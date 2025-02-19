@@ -30,3 +30,5 @@ A configuração do hardware inclui um Raspberry Pi Pico (RP2040) conectado ao j
 O projeto serve como uma excelente aplicação para quem deseja explorar conceitos fundamentais de sistemas embarcados, incluindo leitura de sensores analógicos, controle de periféricos via PWM e manipulação de exibição gráfica. Ele demonstra de maneira prática como interagir com componentes externos e otimizar a resposta do sistema a eventos em tempo real. Além disso, sua modularidade permite futuras expansões, como a adição de novos controles ou a melhoria da interface gráfica exibida no display.
 
 ## Link do Vídeo de Explicação:
+https://drive.google.com/file/d/1UQPRmChT5x7-4bDoHJixA9OnC4UDBepJ/view?usp=sharing
+
